@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1589459892 source:h:\documents\编译原理\实验\实验一\词法分析\lex\lex\main.cpp
+	<ctype.h>
+	<cstdio>
+	<iostream>
+	<cstring>
+
+1591006513 source:e:\张浩\documents\编译原理\实验\实验一\词法分析\lex\lex\main.cpp
+	<ctype.h>
+	<cstdio>
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+
+1592453193 source:d:\users\administrator\desktop\201721232048-张浩-消除左递归\201721232048-实验一\词法分析\lex\lex\main.cpp
+	<ctype.h>
+	<cstdio>
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+
+1592453193 source:d:\users\hp\downloads\201721232048-张浩-消除左递归\201721232048-张浩-消除左递归\201721232048-实验一\词法分析-源程序\lex\lex\main.cpp
+	<ctype.h>
+	<cstdio>
+	<iostream>
+	<cstring>
+	<map>
+	<vector>
+
